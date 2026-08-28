@@ -33,6 +33,7 @@ score = 90
 
 Common Python data types:
 
+```python
 name = "Shafi"       # String
 age = 25             # Integer
 score = 90.5         # Float
@@ -46,12 +47,15 @@ print(type(age))
 print(type(score))
 print(type(is_student))
 
+```
 
 # 3. Lists
 
 A list stores multiple values.
 
 Example:
+
+```python
 
 scores = [80, 90, 70, 95, 85]
 
@@ -88,12 +92,15 @@ max() → largest value
 
 min() → smallest value
 
+```
 
 # 4. Dictionaries
 
 A dictionary stores data using key-value pairs.
 
 Example:
+
+```python
 
 student = {
     "name": "Shafi",
@@ -119,12 +126,15 @@ Add a new value:
 
 student["city"] = "Bangalore"
 
+```
 
 # 5. Loops
 
 A loop allows us to process multiple values.
 
 Example:
+
+```python
 
 scores = [80, 90, 70, 95, 85]
 
@@ -141,6 +151,8 @@ score = 70
 score = 95
 score = 85
 
+```
+
 Loops are very important in AI/ML because we frequently process
 large amounts of data.
 
@@ -150,6 +162,8 @@ large amounts of data.
 Conditions allow us to make decisions.
 
 Example:
+
+```python
 
 score = 85
 
@@ -162,10 +176,13 @@ Output:
 
 Good
 
+```
 
 # 7. Loop + Condition
 
 We can combine loops and conditions.
+
+```python
 
 scores = [80, 90, 70, 95, 85]
 
@@ -182,12 +199,15 @@ Output:
 
 Only values greater than or equal to 80 are printed.
 
+```
 
 # 8. Functions
 
 A function is a reusable block of code.
 
 Example:
+
+```python
 
 def calculate_average(numbers):
     return sum(numbers) / len(numbers)
@@ -203,5 +223,7 @@ print(average)
 Output:
 
 84.0
+
+```
 
 Functions are useful because we can reuse the same logic.

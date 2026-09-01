@@ -1,0 +1,17 @@
+Student Report
+
+Shafi - 85
+Guru - 92
+Cindrella - 99
+Sam - 45
+Alex - 67
+
+Average Score: 77.6
+Highest Score: 99
+Lowest Score: 45
+
+Passed Students:
+Shafi
+Guru
+Cindrella
+Alex

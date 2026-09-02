@@ -1,0 +1,6 @@
+Shafi,85
+Guru,72
+Cindrella,91
+Sam,45
+Alex,67
+John,abc
